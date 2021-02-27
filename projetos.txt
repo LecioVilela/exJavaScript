@@ -1,0 +1,14 @@
+1 - Imprimir números de 1 a 10
+2 - Imprimir números ímpares menores do que 100
+3 - Imprimir tabela da múltiplicação para o número 7
+4 - Criar uma função que vai converter Fahrenheit para celsius
+5 - Criar uma função que receba um array de números e retorne um array contendo apenas números positivos
+6 - Criar uma função que retorne a soma de dois números
+7 - Criar uma função que calcule a área de um triângulo
+8 - Criar uma função que converta ano para dias (contemplar ano bissexto)
+9 - Criar uma função que receba dois argumentos inteiros (a e b) e retorne TRUE se um deles é igual a 10 ou se a soma deles é igual a 10.
+Exemplo:
+funcCheckTen(9,10) => true
+funcCheckTen(9,9) => false
+funcCheckTen(1,9) => true
+10 - Cria uma função que receba como argumento um array de números inteiros negativos e positivos e retorne um array contendo somente os números negativos.
